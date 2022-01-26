@@ -1,6 +1,8 @@
 Esta es una prueba para el uso versionado de documentos.
 
 
+********CONEXIÓN CON SSH**************
+
 prueba 3 - Hola
 Pureba 3 - Holaaa
 
