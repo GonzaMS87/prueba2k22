@@ -1,10 +1,6 @@
 Esta es una prueba para el uso versionado de documentos.
 
-<<<<<<< HEAD
 prueba 2 - Hola
-=======
-prueba 3 - Hola
->>>>>>> nuevafeature
 Pureba 2 - Holaaa
 
 
